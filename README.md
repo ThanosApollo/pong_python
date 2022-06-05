@@ -3,9 +3,9 @@
 ###How to run 
 * Install python 
     * Debian/Ubuntu 
-    ```
-    sudo apt install python
-    ```
+        ```
+        sudo apt install python
+        ```
     * Arch/Manjaro/Garuda 
         ```
         sudo pacman -S python
