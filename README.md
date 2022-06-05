@@ -1,6 +1,6 @@
 # Python Pong Game
 
-###How to run 
+### How to run 
 * Install python 
     * Debian/Ubuntu 
         ```
